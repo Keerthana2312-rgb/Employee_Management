@@ -64,7 +64,7 @@ Development:http://localhost:8080/api/v1
 | `email`     | String   | Email address (format: email)           |
 
 - ### Link -
-https://github.com/mbSabari17/employee_management/blob/b87ecf01c6995baddc332d2a990b060ba40f0318/api/employee_management.yaml
+https://github.com/Keerthana2312-rgb/Employee_Management/blob/master/api/employee_management.yaml
 
 ## Test Cases for Employee Management API
 
