@@ -140,6 +140,6 @@ If you have any doubts or need clarification regarding the employee details sche
 ### Contact Details
 - **Name:** Keerthana Rajasekaran
 - **Email:** rkeerthana2312@gmail.com
-- **Phone:** +91 9122-350-0196
+- **Phone:** +91 912-350-0196
 
 Thank you!
