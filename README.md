@@ -14,8 +14,7 @@ This UML diagram encapsulates the architecture of the Employee Management API, i
 
 3. **EmployeeController**
    - Acts as the interface for handling HTTP requests, invoking methods from the `EmployeeService` to perform operations on employee data.
-     
-![Architecture_Diagram](https://github.com/mbSabari17/employee_details/blob/2163898f9d2419c83fe1c6dabf7e83241aadf339/docs/architecture_diagram.drawio.png?raw=true)
+
 
 ## Employee Management API Design
 
@@ -89,9 +88,6 @@ These test cases provide a comprehensive approach to validating the core functio
 - Responses should include relevant messages to indicate success or the nature of any errors encountered.
 - The API must maintain data integrity, ensuring accurate retrieval, creation, updating, and deletion of employee records.
 
-- ### Link -
-- https://github.com/mbSabari17/employee_management/blob/b87ecf01c6995baddc332d2a990b060ba40f0318/src/test/java/com/example/employee_management/feature/TestCase.feature
-
 ## Database Schema for Employee Management
 
 ### Summary
@@ -135,7 +131,7 @@ This is a Spring Boot-based RESTful API designed for managing employee records. 
 - **RESTful API**: Follows REST principles for data access.
 
 - ### Link -
-- https://github.com/mbSabari17/employee_management/tree/b87ecf01c6995baddc332d2a990b060ba40f0318/src/main/java/com/example/employee_management
+- https://github.com/Keerthana2312-rgb/Employee_Management/tree/master/src/main/java/com/example/employee_management
 
 ## Questions or Clarifications
 
